@@ -1,3 +1,6 @@
+
+/*
+
 // Exercise Nº1
 
 // Write a one-line program that show an alert to appear on the screen that says "Hello World"
@@ -22,6 +25,16 @@ console.log(document.write("<br>", 3 + 5));
 
 let person = prompt("What's your name?");
 
-document.write('<br>Hello\n' + person);
+document.write('<br>Hello\n' + person); 
 
-// Exercise N5°
+// Exercise N°5
+
+// write a three line program that asks for a 2 numbers and show the result of adding these two.
+
+let num1 = parseInt(prompt("Elige un número:"));
+
+let num2 = parseInt(prompt("Elige un número:"));
+
+alert(num1 + num2);
+
+*/
